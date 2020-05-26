@@ -7,3 +7,12 @@ first = True
 if not first or first:
     ans = 1 or 2
 print(ans)
+
+print("--------")
+shuzu32 = [0]*5
+print(shuzu32)
+shuzu32_2 = [2,3,4,5,7,4,5,2]
+print(max(shuzu32_2))
+s = "(())("
+print(s[-1])
+
