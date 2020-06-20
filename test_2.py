@@ -26,4 +26,80 @@ for i in a:
 
 
 
+a = 'a'
+b = 'c'
+# print(b-a)
+# python中字符通过ascii相减不像c++可以直接减，可以通过ord()传入一个字符转换成对应的ascii值
+
+print(ord(a)-ord(b))
+
+print("----测试整数相除-----")
+a = 12
+b = 2
+# print(a/b)
+print(type(a))
+
+ans = a/b
+print(type(ans))
+print(ans)
+print(round(float(a)/b,3))
+
+
+print("-----")
+for i in range(101, 101):
+    print(i)
+
+print("----测试")
+import datetime
+start = datetime.datetime.now()
+ans = [0 for i in range(1000000)]
+end = datetime.datetime.now()
+print("time"+str(end-start))
+start = datetime.datetime.now()
+ans = [0] * 10000
+end = datetime.datetime.now()
+print("time"+str(end-start))
+
+
+print("----test set")
+a = set([-1,0,1])
+print(a)
+
+print("----test sort")
+nums = [0, 4, 5, 3]
+nums.sort()
+print(nums)
+
+
+print("----str sort")
+string = ['a','c','b','a']
+string.sort()
+print(string)
+
+print("---循环")
+for i in range(5):
+    if i == 3:
+        break
+    print(i)
+
+
+print("---index and find")
+nums = [3, 4, 6, 6, 5, 3]
+a = nums.index(3)  # index只能直到首次出现该字母的位置
+print(a)
+
+print("----test 二维数组")
+dp = [[0] * 3]*3
+print(dp)
+dp[1][1] = 1   # 这里要特别注意，我只改了一个地方的值，然而dp数组中的三个地方都改动了，说明他们是共享内存的呀，所以以后要注意这里。
+print(dp)
+print(type(dp))
+
+print("---np list")
+import numpy as np
+dp = list(np.zeros((3,3),dtype=np.int))
+print(type(dp))
+print(dp)
+dp[1][1] = 1
+print(dp)
 
