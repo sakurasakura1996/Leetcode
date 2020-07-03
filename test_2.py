@@ -103,3 +103,38 @@ print(dp)
 dp[1][1] = 1
 print(dp)
 
+print("test split")
+s = "1-401--349---90--88"
+ans = s.split("-")
+print(ans)
+ans.remove('')
+print(ans)
+
+a = [2,2]
+posi = [a]
+print(posi)
+posi.append([3,3])
+print(posi)
+print([3,3] in posi)
+
+print("___测试列表共享内存")
+a = [1,2,3]
+b = []
+b.append(a)
+print(b)
+a.clear()
+print(b)
+# 还真是共享的内存。
+
+print("----测试list.copy()是否共享内存")
+a = [1,2,3]
+b = a.copy()
+print(b)
+a.clear()
+print(b)
+# copy并不共享内存
+c = b
+print(c)
+b.clear()
+print(c)
+# 直接令c = b也是共享内存的
