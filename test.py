@@ -16,3 +16,23 @@ print(max(shuzu32_2))
 s = "(())("
 print(s[-1])
 
+a = 3
+print(1 <= a <= 4)
+
+edges = [2,3]
+edges.remove(2)
+print(edges)
+
+print("---test defaultdict")
+a = [1, 3, 4, 4, 5]
+from collections import defaultdict
+b = defaultdict(list)
+b[2] = 4
+b[3] = [4]
+print(b)
+
+print("---test字典的更新update")
+a = {1:3}
+b = {2:4}
+a.update(b)
+print(a)
