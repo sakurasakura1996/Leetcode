@@ -38,7 +38,6 @@ class Solution:
         return ans
 
 
-
 solu = Solution()
 light =[1,2,3,4,5,6]
 ans = solu.numTimesAllBlut_2(light)

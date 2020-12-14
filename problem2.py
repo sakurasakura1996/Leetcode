@@ -8,7 +8,7 @@ class ListNode:
 
 class Solution:
 	def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-		if l1.val == 0 and l1.next==None:
+		if l1.val == 0 and l1.next==None:  # 一定要注意这里啊，后面的条件不能丢失啊。粗心
 			return l2
 		if l2.val == 0 and l2.next==None:
 			return l1
@@ -33,12 +33,12 @@ class Solution:
 				l1 = l1.next
 				ans = ans.next
 
-		ans = p.next
-		print("hello")
-		print(ans.val)
-		while ans.next!=None:
-			print(ans.next.val)
-			ans =ans.next
+		# ans = p.next
+		# print("hello")
+		# print(ans.val)
+		# while ans.next!=None:
+		# 	print(ans.next.val)
+		# 	ans =ans.next
 		ans = p.next
 		while ans.next!=None:
 			if ans.val+flag > 9:

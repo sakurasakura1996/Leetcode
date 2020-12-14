@@ -70,7 +70,7 @@ class Solution:
             if right<left:
             	return
             if left>0:
-            	dfs(cur_str+'(',left-1,right)
+            	dfs(cur_str+'(',left-1,right) 
             if right>0:
             	dfs(cur_str+')',left,right-1)
             dfs(cur_str, n,n)

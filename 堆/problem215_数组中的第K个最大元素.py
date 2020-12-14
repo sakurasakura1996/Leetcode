@@ -14,5 +14,24 @@ from typing import List
 import heapq
 class Solution:
     def findKthLargest(self, nums: List[int], k:int) -> int:
+        # 维护小顶堆，然后保持堆中有k个元素
         heap = []
+        n = len(nums)
+        for i in range(n):
+            if len(heap) < k:
+                # 直接放入堆中
+                heapq.heappush(heap, nums[i])
+            elif len(heap) == k:
+                if heap[0] < nums[i]:
+                    heapq.heappop(heap)
+                    heapq.heappush(heap, nums[i])
+        return heap[0]
+
+
+solu = Solution()
+nums = [3,2,3,1,2,4,5,5,6]
+k = 4
+ans = solu.findKthLargest(nums, k)
+print(ans)
+
 

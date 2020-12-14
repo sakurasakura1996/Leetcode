@@ -19,5 +19,20 @@ class TreeNode:
         self.right = None
 
 class Solution:
+    ans = 0
     def sumRootToLeaf(self, root: TreeNode) -> int:
+        if not root:
+            return 0
+        if not root.left and not root.right:
+            self.ans += root.val
+        if root.left:
+            root.left.val += root.val * 2
+            self.sumRootToLeaf(root.left)
+        if root.right:
+            root.right.val += root.val * 2
+            self.sumRootToLeaf(root.right)
+        return self.ans
+
+
+
 

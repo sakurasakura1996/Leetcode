@@ -59,6 +59,8 @@ class Solution:
         return dp[total]
 
 
+
+
 solu = Solution()
 nums = [1, 2, 3, 5]
 ans = solu.canPartition_2(nums)

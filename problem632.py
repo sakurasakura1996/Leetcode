@@ -61,6 +61,7 @@ class Solution:
         left = 0
         right = 0
         window = Counter()
+        # 题解中的code相当于先进行了一个初始化，从而省略了较多不可行解，简化滑动窗口方法
         for i in range(nums_len):
             if window[i] == 0:
                 while window[i] == 0:
