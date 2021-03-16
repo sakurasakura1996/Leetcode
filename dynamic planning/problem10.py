@@ -59,11 +59,13 @@ class Solution:
         return dp[m - 1][n - 1]
 
 
+if __name__ == '__main__':
+    s = "ab"
+    p = ".*"
+    solu = Solution()
+    ans = solu.isMatch(s, p)
+    print(ans)
 
-s = "ab"
-p = ".*"
-solu = Solution()
-ans = solu.isMatch(s,p)
-print(ans)
+
 
 

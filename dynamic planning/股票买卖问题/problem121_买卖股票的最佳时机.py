@@ -46,11 +46,6 @@ class Solution:
             right += 1
         return ans
 
-
-
-
-
-
 solu = Solution()
 prices = [7,1,5,3,6,4]
 ans = solu.maxProfit_2(prices)

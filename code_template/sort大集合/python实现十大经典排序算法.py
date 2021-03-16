@@ -156,12 +156,9 @@ class Sort:
         self.QuickSort(array, i+1, right)
         return array
 
-    def QuickSort2(self,array, left, right):
+    def QuickSort2(self, array, left, right):
         # 上面的快排写法挺好的，但不是最最正统的写法哈哈哈，应该另外定义一个partition函数，这个函数才是核心处理功能
         def partition(array, head, tail):
-
-
-
             pivot = array[head]
             while head < tail:
                 while head < tail and array[tail] >= pivot:
@@ -216,12 +213,6 @@ class Sort:
                 buckets[int(j / (10 ** i)) % 10].append(j)
             output = [m for bucket in buckets for m in bucket]
         return output
-
-
-
-
-
-
 
 
 sorter = Sort()

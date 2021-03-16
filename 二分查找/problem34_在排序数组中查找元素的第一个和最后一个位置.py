@@ -29,7 +29,7 @@ class Solution:
             # left1 是为了寻找左边界
             mid = (left1 + right1) // 2
             if nums[mid] == target:
-                right1 = mid    # 这里不需要-1，因为我这里用的有端是开区间，所以mid取不到，那么最大能取到的数也就是mid-1啦呀
+                right1 = mid    # 这里不需要-1，因为我这里用的右端是开区间，所以mid取不到，那么最大能取到的数也就是mid-1啦呀
             elif nums[mid] > target:
                 right1 = mid
             elif nums[mid] < target:
@@ -46,7 +46,7 @@ class Solution:
             elif nums[mid] < target:
                 left2 = mid + 1
         # 这时候返回 left-1 才是右侧区间哦，因为上面第一个left2 = mid + 1时，我当时就有点疑惑，如果这个mid就是最右边的那个target,
-        # 那left不是已经走过了吗，left = mid + 1为什么不行吗，首先，我们一定要直到，每一种情况下，区间一定是要往前行进的，如果区间没动那
+        # 那left不是已经走过了吗，left = mid + 1为什么不行吗，首先，我们一定要知道，每一种情况下，区间一定是要往前行进的，如果区间没动那
         # 就会陷入没有执行任何操作的死循环之中啦。这里减一，是搜索右侧边界的一个特殊点。
         # if nums[left1] == target and nums[left2-1] == target: # 如果target在最右侧，那么会引起数组越界的情况，所以判断要加一些
         if left1 < n and nums[left1] == target and nums[left2-1] == target:
