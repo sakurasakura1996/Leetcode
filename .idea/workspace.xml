@@ -1,0 +1,2297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/堆/problem703_数据流中的第K大元素.py" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08a98dfc-db16-4f42-9ec6-b9cab8cbae15" name="Default Changelist" comment="update my code for leetcode with Python">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baidu/跳数字序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/wxs_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/wxs_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytedance/byteedu/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytedance/byteedu/LRUCache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic planning/股票买卖问题_二刷/problem122_买卖股票的最佳时机II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic planning/股票买卖问题_二刷/problem123_买卖股票的最佳时机III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic planning/股票买卖问题_二刷/problem188_买卖股票的最佳时机IV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic planning/股票买卖问题_二刷/problem309_最佳买卖股票时机含冷冻期.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic planning/股票买卖问题_二刷/problem714_买卖股票的最佳时机含手续费.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic planning/股票买卖问题_二刷/剑指offer63_股票的最大利润.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_hot100/problem207_课程表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_hot100/problem210_课程表II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_weekly_competition/238/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_weekly_competition/238/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_weekly_competition/238/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_weekly_competition/238/3_again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_weekly_competition/240/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_weekly_competition/240/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem11_盛最多水的容器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem142_环形链表II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem1462_课程表IV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem17_电话号码的字母组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem198_打家劫舍.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem207_课程表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem208_实现Trie(前缀树).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem210_课程表II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem213_打家劫舍II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem239_滑动窗口最大值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem240_搜索二维矩阵II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem300_最长递增子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem309_最佳买卖股票时机含冷冻期.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem31_下一个排列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem337_打家劫舍III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem347_前K个高频元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem34_在排序数组中查找元素的第一个和最后一个位置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem3_无重复字符的最长字串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem437_路径总和III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem49_字母异位词分组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem538_把二叉搜索树转换为累加树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem621_任务调度器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem62_不同路径.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem630_课程表III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem75_颜色分类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem116_填充每个节点的下一个右侧节点指针.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem118_杨辉三角.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem119_杨辉三角II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem12_整数转罗马数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1315_祖父节点值为偶数的节点和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem134_加油站.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem137_只出现一次的数字II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem13_罗马数字转整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem150_逆波兰表达式求值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem162_寻找峰值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem165_比较版本号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem168_Excel表列名称.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem172_阶乘后的零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1791_找出星型图的中心节点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1800_最大升序子数组和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1818_绝对差值和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem18_四数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1_两数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem206_反转链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem24_两两交换链表中的节点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem25_K个一组翻转链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem26_删除有序数组中的重复项.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem27_移除元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem28_实现strStr().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem29_两数相除.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem45_跳跃游戏II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem4_寻找两个正序数组的中位数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem50_Pow(x,n).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem560_和为K的子数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem57_插入区间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem59_螺旋矩阵II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem61_旋转链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem698_划分为k个相等的子集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem6_Z字形变换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem71_简化路径.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem73_矩阵置零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem7_整数反转.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem80_删除有序数组中的重复项II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem81_搜索旋转排序数组II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem82_删除排序链表中的重复元素II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem86_分隔链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem89_格雷编码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem8_字符串转换整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem91_解码方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/problem92_反转链表II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode未归类题目/值传递测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分查找/problem1111_有效括号的嵌套深度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分查找/problem1351_统计有序矩阵中的负数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分查找/problem33_搜索旋转排序数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分查找/problem349_两个数组的交集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分查找/problem378_有序矩阵中第K小的元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分查找/problem852_山脉数组的峰顶索引.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二分查找/二分查找模板.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/problem103_二叉树的锯齿形层序遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/problem113_路径总和II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/problem117_填充每个节点的下一个右侧节点指针II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/二叉树/problem129_求根节点到叶节点数字之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer37_序列化二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer57_II_和为s的连续正数序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer/剑指offer68_II_二叉树的最近公共祖先.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指offer_二刷/剑指offer20_表示数值的字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/华为笔试题/2021.4.21/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/华为笔试题/2021.4.21/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/华为笔试题/2021.4.21/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/华为笔试题/反转括号内的字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/华为笔试题/反转括号内的字符串2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回溯/problem47_全排列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回溯/problem52_N皇后II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回溯/problem78_子集2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图/problem797_所有可能的路径.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图/problem997_找到小镇的法官.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/拼多多笔试/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/拼多多笔试/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/拼多多笔试/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/拼多多笔试/3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/拼多多笔试/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1006_笨阶乘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1011_在D天内送达包裹的能力.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1035_不相交的线.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1049_最后一块石头的重量II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1074_元素和为目标值的子矩阵数量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1143_最长公共子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1190_反转每对括号间的子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1269_停在原地的方案数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem12_整数转罗马数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1310_子数组异或查询.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem137_只出现一次的数字II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem13_罗马数字转整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1442_形成两个异或相等数组的三元组数目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1449_数位成本和为目标值的最大数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1482_制作m束花所需的最少天数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1486_数组异或操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem153_寻找旋转排序数组中的最小值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem154_寻找旋转排序数组中的最小值II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1707_与数组中元素的最大异或值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1720_解码异或后的数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1723_完成所有工作的最短时间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1734_解码异或后的排列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1738_找出第K大的异或坐标值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1744_你能在你最喜欢的那天吃到你最喜欢的的糖果吗.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem1787_使所有区间的异或结果为零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem179_最大数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem208_实现前缀树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem213_打家劫舍II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem220_存在重复元素III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem231_2的幂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem263_丑数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem264_丑数II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem26_删除有序数组中的重复项.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem278_第一个错误的版本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem279_完全平方数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem28_实现strStr().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem342_4的幂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem363_矩形区域不超过K的最大数值和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem368_最大整除子集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem377_组合总和IV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem403_青蛙过河.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem421_数组中两个数的最大异或值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem461_汉明距离.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem474_一和零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem477_汉明距离总和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem494_目标和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem523_连续的子数组和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem554_砖墙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem633_平方数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem664_奇怪的打印机.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem690_员工的重要性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem692_前K个高频单词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem740_删除并获得点数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem74_搜索二维矩阵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem781_森林中的兔子.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem783_二叉搜索树节点最小距离.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem80_删除有序数组中的重复项II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem810_黑板异或游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem81_搜索旋转排序数组II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem872_叶子相似的树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem879_盈利计划.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem87_扰乱字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem88_合并两个有序数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem897_递增顺序搜索树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem90_子集II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem91_解码方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem938_二叉搜索树的范围和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/problem993_二叉树的堂兄弟节点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/每日一题/面试17.21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/滑动窗口/problem1438_绝对差不超过限制的最长连续子数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/剑指offer_矩形覆盖.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/华为机试_迷宫问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客网/输入输出模板练习.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_hot100/problem300_最长递增子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_hot100/problem300_最长递增子序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_二刷hot100/problem739_每日温度.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_二刷hot100/problem739_每日温度.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_二刷hot100/值得再刷的题目名单" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_二刷hot100/值得再刷的题目名单" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1004.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem101.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem101.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1014.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1025_除数博弈.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1025_除数博弈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1052.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem11.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1108.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1108.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1111.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem112_路径总和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem112_路径总和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1160.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1160.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem118.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem118.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem119.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem119.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1208.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1208.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem120_三角形最小路径和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem120_三角形最小路径和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem121.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem121.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem125.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem125.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1252_奇数值单元格的数目.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1252_奇数值单元格的数目.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem126.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem126.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem127.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem127.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem128.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem128.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1300.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1300.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem130_被围绕的区域.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem130_被围绕的区域.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1323_6和9组成的最大数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1323_6和9组成的最大数字.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem136_只出现一次的数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem136_只出现一次的数字.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1375_灯泡开关III.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1375_灯泡开关III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem14.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1431.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1431.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem143_重排链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem143_重排链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem146_LRU缓存机制.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem146_LRU缓存机制.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1475.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1475.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem15.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem151.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem151.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem153_寻找旋转排序数组中的最小值.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem153_寻找旋转排序数组中的最小值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem154_寻找旋转排序数组中的最小值II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem154_寻找旋转排序数组中的最小值II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem16.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem1621.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem1621.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem167_两数之和II_输入有序数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem167_两数之和II_输入有序数组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem169_多数元素.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem169_多数元素.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem17_电话号码的字母组合.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem17_电话号码的字母组合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem198.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem198.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem201_数字范围按位与.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem201_数字范围按位与.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem206.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem206.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem207_课程表.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem207_课程表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem209.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem209.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem20_有效的括号.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem20_有效的括号.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem210_课程表II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem210_课程表II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem214_最短回文串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem214_最短回文串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem21_合并两个有序链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem21_合并两个有序链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem22.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem225.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem225.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem234_回文链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem234_回文链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem238.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem238.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem239.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem239.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem23_合并k个排序链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem23_合并k个排序链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem289.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem289.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem3.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem30.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem312_戳气球.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem312_戳气球.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem316_去除重复字母.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem316_去除重复字母.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem329_矩阵中的最长递增路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem329_矩阵中的最长递增路径.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem32_最长有效括号.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem32_最长有效括号.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem332_重新安排行程.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem332_重新安排行程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem336_回文对.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem336_回文对.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem337_打家劫舍III.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem337_打家劫舍III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem343_整数拆分.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem343_整数拆分.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem344_反转字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem344_反转字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem347_前K个高频元素.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem347_前K个高频元素.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem35_搜索插入位置.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem35_搜索插入位置.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem378_有序矩阵第k小的元素.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem378_有序矩阵第k小的元素.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem392_判断子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem392_判断子序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem399_除法求值.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem399_除法求值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem410_分割数组的最大值.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem410_分割数组的最大值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem415_字符串相加.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem415_字符串相加.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem42.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem43_字符串相乘.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem43_字符串相乘.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem445.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem445.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem44_通配符匹配.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem44_通配符匹配.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem459_重复的子字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem459_重复的子字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem460.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem460.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem460_自己敲一遍.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem460_自己敲一遍.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem461.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem461.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem466.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem466.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem491_递增子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem491_递增子序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem494.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem494.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem516_最长回文子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem516_最长回文子序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem541_反转字符串II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem541_反转字符串II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem542.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem542.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem546_移除盒子.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem546_移除盒子.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem55.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem55.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem557_反转字符串中的单词III.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem557_反转字符串中的单词III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem56.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem56.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem567.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem567.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem632.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem632.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem632_最小区间.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem632_最小区间.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem63_不同路径II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem63_不同路径II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem647_回文子串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem647_回文子串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem64_最小路径和.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem64_最小路径和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem653_两数之和IV-输入BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem653_两数之和IV-输入BST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem657_机器人能否返回原点.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem657_机器人能否返回原点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem66.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem66.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem679_24点游戏.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem679_24点游戏.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem690.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem690.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem696_计数二进制子串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem696_计数二进制子串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem70.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem70.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem704_二分查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem704_二分查找.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem709_转换成小写字母.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem709_转换成小写字母.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem718.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem718.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem72.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem72.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem733_图像熏染.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem733_图像熏染.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem739.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem739.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem74_搜索二维矩阵.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem74_搜索二维矩阵.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem76.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem76.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem763_划分字母区间.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem763_划分字母区间.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem785_判断二分图.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem785_判断二分图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem78_子集.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem78_子集.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem804_唯一莫尔斯密码词.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem804_唯一莫尔斯密码词.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem837.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem837.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem841_钥匙和房间.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem841_钥匙和房间.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem844_比较含退格的字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem844_比较含退格的字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem876.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem876.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem88.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem88.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem887.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem887.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem88_合并两个有序数组.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem88_合并两个有序数组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem9.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem925_长按键入.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem925_长按键入.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem93_复原IP地址.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem93_复原IP地址.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem97_交错字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem97_交错字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem983.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem983.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem990.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem990.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem999.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem999.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem打家劫舍II_213.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/problem打家劫舍II_213.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指offer/剑指offer20_表示数值的字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/剑指offer/剑指offer20_表示数值的字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杨向鹏.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/杨向鹏.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/简单计算器.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/简单计算器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试01.01.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试01.01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试03.06.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试03.06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试08.03_魔术索引.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试08.03_魔术索引.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试13.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试17.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试17.12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试17.12_BiNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试17.12_BiNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试29.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试48.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试48.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试57-II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试57-II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试59-I.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试59-I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试59-II.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试59-II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试_problem30.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试_problem30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试problem01.07.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试problem01.07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题02.01_移除重复节点.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试题02.01_移除重复节点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题46.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode未归类题目/面试题46.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/problem24_两两交换链表中的节点.py" />
+        <option value="$PROJECT_DIR$/problem25_K个一组翻转链表.py" />
+        <option value="$PROJECT_DIR$/每日一题/problem74_搜索二维矩阵.py" />
+        <option value="$PROJECT_DIR$/problem26_删除有序数组中的重复项.py" />
+        <option value="$PROJECT_DIR$/problem27_移除元素.py" />
+        <option value="$PROJECT_DIR$/problem28_实现strStr().py" />
+        <option value="$PROJECT_DIR$/problem29_两数相除.py" />
+        <option value="$PROJECT_DIR$/回溯/problem47_全排列.py" />
+        <option value="$PROJECT_DIR$/problem45_跳跃游戏II.py" />
+        <option value="$PROJECT_DIR$/回溯/problem52_N皇后II.py" />
+        <option value="$PROJECT_DIR$/回溯/problem78_子集2.py" />
+        <option value="$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/wxs_2.py" />
+        <option value="$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/wxs_1.py" />
+        <option value="$PROJECT_DIR$/每日一题/problem90_子集II.py" />
+        <option value="$PROJECT_DIR$/problem50_Pow(x,n).py" />
+        <option value="$PROJECT_DIR$/每日一题/problem1006_笨阶乘.py" />
+        <option value="$PROJECT_DIR$/problem57_插入区间.py" />
+        <option value="$PROJECT_DIR$/每日一题/面试17.21.py" />
+        <option value="$PROJECT_DIR$/problem61_旋转链表.py" />
+        <option value="$PROJECT_DIR$/problem80_删除有序数组中的重复项II.py" />
+        <option value="$PROJECT_DIR$/problem82_删除排序链表中的重复元素II.py" />
+        <option value="$PROJECT_DIR$/problem71_简化路径.py" />
+        <option value="$PROJECT_DIR$/problem59_螺旋矩阵II.py" />
+        <option value="$PROJECT_DIR$/problem73_矩阵置零.py" />
+        <option value="$PROJECT_DIR$/problem86_分隔链表.py" />
+        <option value="$PROJECT_DIR$/二分查找/problem33_搜索旋转排序数组.py" />
+        <option value="$PROJECT_DIR$/problem81_搜索旋转排序数组II.py" />
+        <option value="$PROJECT_DIR$/每日一题/problem1143_最长公共子序列.py" />
+        <option value="$PROJECT_DIR$/每日一题/problem781_森林中的兔子.py" />
+        <option value="$PROJECT_DIR$/problem92_反转链表II.py" />
+        <option value="$PROJECT_DIR$/problem91_解码方法.py" />
+        <option value="$PROJECT_DIR$/problem206_反转链表.py" />
+        <option value="$PROJECT_DIR$/problem89_格雷编码.py" />
+        <option value="$PROJECT_DIR$/二叉树/problem103_二叉树的锯齿形层序遍历.py" />
+        <option value="$PROJECT_DIR$/二叉树/problem113_路径总和II.py" />
+        <option value="$PROJECT_DIR$/problem118_杨辉三角.py" />
+        <option value="$PROJECT_DIR$/problem119_杨辉三角II.py" />
+        <option value="$PROJECT_DIR$/每日一题/problem88_合并两个有序数组.py" />
+        <option value="$PROJECT_DIR$/二叉树/problem129_求根节点到叶节点数字之和.py" />
+        <option value="$PROJECT_DIR$/problem137_只出现一次的数字II.py" />
+        <option value="$PROJECT_DIR$/problem134_加油站.py" />
+        <option value="$PROJECT_DIR$/problem116_填充每个节点的下一个右侧节点指针.py" />
+        <option value="$PROJECT_DIR$/二叉树/problem117_填充每个节点的下一个右侧节点指针II.py" />
+        <option value="$PROJECT_DIR$/problem1818_绝对差值和.py" />
+        <option value="$PROJECT_DIR$/problem150_逆波兰表达式求值.py" />
+        <option value="$PROJECT_DIR$/problem162_寻找峰值.py" />
+        <option value="$PROJECT_DIR$/problem172_阶乘后的零.py" />
+        <option value="$PROJECT_DIR$/每日一题/problem80_删除有序数组中的重复项II.py" />
+        <option value="$PROJECT_DIR$/每日一题/problem81_搜索旋转排序数组II.py" />
+        <option value="$PROJECT_DIR$/problem168_Excel表列名称.py" />
+        <option value="$PROJECT_DIR$/每日一题/problem153_寻找旋转排序数组中的最小值.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2120" />
+    <option name="y" value="-8" />
+    <option name="width" value="1347" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectId" id="1qw50wcriFBQa8L2ZeMZR6p8iR9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Leetcode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="F:\PycharmProjects\Leetcode" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="F:\PycharmProjects\Leetcode" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="每日一题" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/华为笔试题" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/alibaba_online_codeing/商品列表.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyCode\PyCharmProjects\Leetcode\华为笔试题" />
+      <recent name="F:\PycharmProjects\Leetcode\剑指offer_二刷" />
+      <recent name="F:\PycharmProjects\Leetcode\dynamic planning" />
+      <recent name="F:\PycharmProjects\Leetcode\并查集" />
+      <recent name="F:\PycharmProjects\Leetcode\单调栈" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyCode\PyCharmProjects\Leetcode\leetcode未归类题目" />
+      <recent name="F:\PycharmProjects\Leetcode\剑指offer" />
+      <recent name="F:\PycharmProjects\Leetcode\每周回顾\第一周" />
+      <recent name="F:\PycharmProjects\Leetcode\代码测试" />
+      <recent name="F:\PycharmProjects\Leetcode\alibaba_online_codeing\每周限时赛第一场(内测版)" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.wxs_2">
+    <configuration name="problem279_完全平方数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/problem279_完全平方数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem474_一和零" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/problem474_一和零.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem494_目标和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/problem494_目标和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem879_盈利计划" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/problem879_盈利计划.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wxs_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/wxs_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.problem474_一和零" />
+      <item itemvalue="Python.problem494_目标和" />
+      <item itemvalue="Python.problem879_盈利计划" />
+      <item itemvalue="Python.problem279_完全平方数" />
+      <item itemvalue="Python.wxs_2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wxs_2" />
+        <item itemvalue="Python.problem279_完全平方数" />
+        <item itemvalue="Python.problem879_盈利计划" />
+        <item itemvalue="Python.problem494_目标和" />
+        <item itemvalue="Python.problem474_一和零" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08a98dfc-db16-4f42-9ec6-b9cab8cbae15" name="Default Changelist" comment="" />
+      <created>1580646036947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580646036947</updated>
+      <workItem from="1580646038061" duration="1990000" />
+      <workItem from="1580728161895" duration="5605000" />
+      <workItem from="1580876350279" duration="6877000" />
+      <workItem from="1580949470845" duration="5836000" />
+      <workItem from="1581049005401" duration="8475000" />
+      <workItem from="1581129204400" duration="5489000" />
+      <workItem from="1581225707091" duration="6204000" />
+      <workItem from="1581300519577" duration="4547000" />
+      <workItem from="1581329721386" duration="1733000" />
+      <workItem from="1581477966466" duration="3357000" />
+      <workItem from="1581481612599" duration="3694000" />
+      <workItem from="1581835014256" duration="5691000" />
+      <workItem from="1581997271428" duration="232000" />
+      <workItem from="1581998320698" duration="11000" />
+      <workItem from="1587023591325" duration="7539000" />
+      <workItem from="1587177141693" duration="8827000" />
+      <workItem from="1587256885391" duration="1694000" />
+      <workItem from="1590195020794" duration="7164000" />
+      <workItem from="1590282346222" duration="6248000" />
+      <workItem from="1590370441986" duration="6009000" />
+      <workItem from="1590383719970" duration="14000" />
+      <workItem from="1590452923585" duration="1530000" />
+      <workItem from="1590455670280" duration="193000" />
+      <workItem from="1590495913351" duration="3430000" />
+      <workItem from="1590551658312" duration="4460000" />
+      <workItem from="1590573707701" duration="3716000" />
+      <workItem from="1590625379356" duration="7420000" />
+      <workItem from="1590713442360" duration="8282000" />
+      <workItem from="1590799551536" duration="10909000" />
+      <workItem from="1590884936450" duration="8094000" />
+      <workItem from="1590909869993" duration="2242000" />
+      <workItem from="1590915422827" duration="2602000" />
+      <workItem from="1590966403941" duration="945000" />
+      <workItem from="1590973313748" duration="3016000" />
+      <workItem from="1590995623096" duration="47000" />
+      <workItem from="1591146944258" duration="8477000" />
+      <workItem from="1591222340932" duration="4790000" />
+      <workItem from="1591231222818" duration="6828000" />
+      <workItem from="1591269212581" duration="1172000" />
+      <workItem from="1591321754209" duration="6689000" />
+      <workItem from="1591350470566" duration="3262000" />
+      <workItem from="1591403143804" duration="3051000" />
+      <workItem from="1591419143256" duration="7372000" />
+      <workItem from="1591450058174" duration="3922000" />
+      <workItem from="1591489129869" duration="9035000" />
+      <workItem from="1591576459497" duration="11374000" />
+      <workItem from="1591605292787" duration="9000" />
+      <workItem from="1591749398939" duration="10354000" />
+      <workItem from="1591773641508" duration="12000" />
+      <workItem from="1591842987809" duration="2015000" />
+      <workItem from="1591877544696" duration="3804000" />
+      <workItem from="1591921852264" duration="6163000" />
+      <workItem from="1592035415258" duration="3460000" />
+      <workItem from="1592041600879" duration="5021000" />
+      <workItem from="1592107954734" duration="2566000" />
+      <workItem from="1592124769269" duration="9185000" />
+      <workItem from="1592181011538" duration="3375000" />
+      <workItem from="1592190517939" duration="9450000" />
+      <workItem from="1592214486084" duration="9000" />
+      <workItem from="1592232991115" duration="1094000" />
+      <workItem from="1592311894116" duration="106000" />
+      <workItem from="1592352991300" duration="7047000" />
+      <workItem from="1592379338342" duration="48000" />
+      <workItem from="1592441159461" duration="1820000" />
+      <workItem from="1592449604713" duration="615000" />
+      <workItem from="1592525485326" duration="5146000" />
+      <workItem from="1592576307988" duration="2337000" />
+      <workItem from="1592633657676" duration="5024000" />
+      <workItem from="1592695610640" duration="13195000" />
+      <workItem from="1592720299047" duration="479000" />
+      <workItem from="1592723483212" duration="20000" />
+      <workItem from="1592805233057" duration="9991000" />
+      <workItem from="1592874644269" duration="9109000" />
+      <workItem from="1592905586961" duration="4458000" />
+      <workItem from="1592956062233" duration="6004000" />
+      <workItem from="1592968891033" duration="669000" />
+      <workItem from="1593001288568" duration="329000" />
+      <workItem from="1593220793882" duration="33000" />
+      <workItem from="1593248679938" duration="2402000" />
+      <workItem from="1593298070757" duration="2781000" />
+      <workItem from="1593308836882" duration="7116000" />
+      <workItem from="1593329173432" duration="4351000" />
+      <workItem from="1593340981724" duration="260000" />
+      <workItem from="1593476730500" duration="932000" />
+      <workItem from="1593486263307" duration="5696000" />
+      <workItem from="1593497449201" duration="181000" />
+      <workItem from="1593512298092" duration="1722000" />
+      <workItem from="1593559344533" duration="15316000" />
+      <workItem from="1593602084921" duration="5764000" />
+      <workItem from="1593685047937" duration="7357000" />
+      <workItem from="1593738286045" duration="8617000" />
+      <workItem from="1593753628392" duration="520000" />
+      <workItem from="1593769874247" duration="4030000" />
+      <workItem from="1593820631655" duration="5103000" />
+      <workItem from="1593856373932" duration="5178000" />
+      <workItem from="1593908372108" duration="13444000" />
+      <workItem from="1593942529114" duration="1186000" />
+      <workItem from="1594029444763" duration="1319000" />
+      <workItem from="1594098530176" duration="3607000" />
+      <workItem from="1594111972474" duration="5085000" />
+      <workItem from="1594715537048" duration="719000" />
+      <workItem from="1594783586292" duration="8575000" />
+      <workItem from="1594859444938" duration="5775000" />
+      <workItem from="1594903109595" duration="52000" />
+      <workItem from="1594977197438" duration="2133000" />
+      <workItem from="1595063596368" duration="4693000" />
+      <workItem from="1595118426997" duration="13299000" />
+      <workItem from="1595150086951" duration="419000" />
+      <workItem from="1595151096749" duration="112000" />
+      <workItem from="1595209765946" duration="15971000" />
+      <workItem from="1595290348746" duration="5085000" />
+      <workItem from="1595298997821" duration="8372000" />
+      <workItem from="1595380106564" duration="5850000" />
+      <workItem from="1595488472279" duration="4351000" />
+      <workItem from="1595548976278" duration="8826000" />
+      <workItem from="1595571634751" duration="2386000" />
+      <workItem from="1595635887262" duration="6811000" />
+      <workItem from="1595725299688" duration="718000" />
+      <workItem from="1595730129007" duration="3721000" />
+      <workItem from="1595747209733" duration="63000" />
+      <workItem from="1595809501912" duration="8856000" />
+      <workItem from="1595843814066" duration="8064000" />
+      <workItem from="1595891857468" duration="3677000" />
+      <workItem from="1595935607602" duration="3704000" />
+      <workItem from="1595986074004" duration="1195000" />
+      <workItem from="1596023288234" duration="376000" />
+      <workItem from="1596074445925" duration="2005000" />
+      <workItem from="1596096026323" duration="5400000" />
+      <workItem from="1596149549630" duration="12008000" />
+      <workItem from="1596239958117" duration="11589000" />
+      <workItem from="1596333123744" duration="6694000" />
+      <workItem from="1596347509437" duration="455000" />
+      <workItem from="1596359748134" duration="4269000" />
+      <workItem from="1596413528224" duration="11449000" />
+      <workItem from="1596457401030" duration="62000" />
+      <workItem from="1596498544599" duration="7417000" />
+      <workItem from="1596585910284" duration="8396000" />
+      <workItem from="1596612348358" duration="44000" />
+      <workItem from="1596667950136" duration="13853000" />
+      <workItem from="1596755397377" duration="8100000" />
+      <workItem from="1596863815767" duration="1775000" />
+      <workItem from="1596938048182" duration="8521000" />
+      <workItem from="1597018420116" duration="3055000" />
+      <workItem from="1597124472517" duration="2437000" />
+      <workItem from="1597131964655" duration="44000" />
+      <workItem from="1597144098774" duration="2482000" />
+      <workItem from="1597221370346" duration="8636000" />
+      <workItem from="1597238409508" duration="91000" />
+      <workItem from="1597274611416" duration="4457000" />
+      <workItem from="1597315810105" duration="2651000" />
+      <workItem from="1597366971308" duration="4573000" />
+      <workItem from="1597379261337" duration="10061000" />
+      <workItem from="1597444632558" duration="24351000" />
+      <workItem from="1597713460116" duration="8592000" />
+      <workItem from="1597793666839" duration="6939000" />
+      <workItem from="1597829822486" duration="3441000" />
+      <workItem from="1597879725887" duration="6860000" />
+      <workItem from="1597970249363" duration="8747000" />
+      <workItem from="1598056803507" duration="4928000" />
+      <workItem from="1598090360555" duration="4630000" />
+      <workItem from="1598143277974" duration="2058000" />
+      <workItem from="1598149147308" duration="16448000" />
+      <workItem from="1598227113057" duration="18201000" />
+      <workItem from="1598314117846" duration="15382000" />
+      <workItem from="1598397955412" duration="5886000" />
+      <workItem from="1598486247188" duration="3800000" />
+      <workItem from="1598573742742" duration="8269000" />
+      <workItem from="1598657088818" duration="13244000" />
+      <workItem from="1598747104927" duration="9578000" />
+      <workItem from="1598830392435" duration="1602000" />
+      <workItem from="1599393775422" duration="1562000" />
+      <workItem from="1599526260035" duration="4560000" />
+      <workItem from="1599562211611" duration="10306000" />
+      <workItem from="1599612701530" duration="4310000" />
+      <workItem from="1599632301512" duration="1636000" />
+      <workItem from="1599634081013" duration="923000" />
+      <workItem from="1599636620988" duration="65000" />
+      <workItem from="1599696737953" duration="3917000" />
+      <workItem from="1599705975443" duration="82000" />
+      <workItem from="1599706347401" duration="139000" />
+      <workItem from="1599808398505" duration="52000" />
+      <workItem from="1599965342726" duration="1479000" />
+      <workItem from="1599967189984" duration="2542000" />
+      <workItem from="1600002570885" duration="136000" />
+      <workItem from="1600005355346" duration="1188000" />
+      <workItem from="1600053655826" duration="12000" />
+      <workItem from="1600075306504" duration="2340000" />
+      <workItem from="1600436032535" duration="23000" />
+      <workItem from="1600483748506" duration="56000" />
+      <workItem from="1601173005153" duration="5474000" />
+      <workItem from="1601179133405" duration="1940000" />
+      <workItem from="1601184362351" duration="39000" />
+      <workItem from="1601255382368" duration="3831000" />
+      <workItem from="1601349288198" duration="1294000" />
+      <workItem from="1601351574340" duration="3617000" />
+      <workItem from="1601467596124" duration="1542000" />
+      <workItem from="1601523556751" duration="6717000" />
+      <workItem from="1601602096604" duration="2705000" />
+      <workItem from="1601637310124" duration="13000" />
+      <workItem from="1601703971305" duration="806000" />
+      <workItem from="1601706687823" duration="639000" />
+      <workItem from="1601717643329" duration="7000" />
+      <workItem from="1601778513057" duration="11782000" />
+      <workItem from="1601905213307" duration="103000" />
+      <workItem from="1602046161870" duration="38000" />
+      <workItem from="1602046736157" duration="11721000" />
+      <workItem from="1602148087734" duration="154000" />
+      <workItem from="1602382096899" duration="673000" />
+      <workItem from="1602408923601" duration="17000" />
+      <workItem from="1602987099542" duration="13526000" />
+      <workItem from="1603073117448" duration="1915000" />
+      <workItem from="1603115480460" duration="9317000" />
+      <workItem from="1603196713529" duration="609000" />
+      <workItem from="1603201362314" duration="1719000" />
+      <workItem from="1603248462132" duration="6633000" />
+      <workItem from="1603341615262" duration="8266000" />
+      <workItem from="1603457574850" duration="3173000" />
+      <workItem from="1603510027559" duration="45000" />
+      <workItem from="1603592864575" duration="12018000" />
+      <workItem from="1604840122331" duration="5918000" />
+      <workItem from="1604887668415" duration="8401000" />
+      <workItem from="1604974161838" duration="8688000" />
+      <workItem from="1606571059550" duration="10535000" />
+      <workItem from="1606631255344" duration="15000" />
+      <workItem from="1606654002912" duration="3198000" />
+      <workItem from="1606701001997" duration="52754000" />
+      <workItem from="1606998071118" duration="4713000" />
+      <workItem from="1607063586973" duration="13555000" />
+      <workItem from="1607140165667" duration="25582000" />
+      <workItem from="1607654570264" duration="105000" />
+      <workItem from="1607945571366" duration="797000" />
+      <workItem from="1608535435643" duration="14000" />
+      <workItem from="1609726851195" duration="19827000" />
+      <workItem from="1609835653463" duration="38000" />
+      <workItem from="1609911095701" duration="5167000" />
+      <workItem from="1610281261413" duration="6026000" />
+      <workItem from="1610332076852" duration="23514000" />
+      <workItem from="1610440778071" duration="600000" />
+      <workItem from="1610458666763" duration="29409000" />
+      <workItem from="1610694598820" duration="603000" />
+      <workItem from="1611489164946" duration="1089000" />
+      <workItem from="1611551068649" duration="9307000" />
+      <workItem from="1611579443906" duration="24000" />
+      <workItem from="1611636707220" duration="12813000" />
+      <workItem from="1611711967673" duration="11543000" />
+      <workItem from="1611798924525" duration="1230000" />
+      <workItem from="1611877759240" duration="13654000" />
+      <workItem from="1611906080846" duration="9000" />
+      <workItem from="1612055929296" duration="27185000" />
+      <workItem from="1612317523790" duration="18473000" />
+      <workItem from="1612515343539" duration="2686000" />
+      <workItem from="1612664125647" duration="16468000" />
+      <workItem from="1612752385423" duration="4463000" />
+      <workItem from="1613527265406" duration="15428000" />
+      <workItem from="1613612187105" duration="8333000" />
+      <workItem from="1613704773017" duration="2587000" />
+      <workItem from="1613782320105" duration="15394000" />
+      <workItem from="1613897067972" duration="16399000" />
+      <workItem from="1614042758553" duration="8016000" />
+      <workItem from="1614126362838" duration="7221000" />
+      <workItem from="1614164572867" duration="7843000" />
+      <workItem from="1614233975730" duration="11035000" />
+      <workItem from="1614304760930" duration="13259000" />
+      <workItem from="1614390559652" duration="47000" />
+      <workItem from="1614432405083" duration="3032000" />
+      <workItem from="1614479251870" duration="7177000" />
+      <workItem from="1614513627026" duration="9786000" />
+      <workItem from="1614825598388" duration="17893000" />
+      <workItem from="1615341238168" duration="12111000" />
+      <workItem from="1615365825757" duration="4804000" />
+      <workItem from="1615426302874" duration="11204000" />
+      <workItem from="1615445068547" duration="374000" />
+      <workItem from="1615460836862" duration="2557000" />
+      <workItem from="1615512334673" duration="8733000" />
+      <workItem from="1615549659336" duration="9876000" />
+      <workItem from="1615692385552" duration="8071000" />
+      <workItem from="1615729133216" duration="27000" />
+      <workItem from="1615771025746" duration="11954000" />
+      <workItem from="1615859514059" duration="7789000" />
+      <workItem from="1615880201985" duration="75000" />
+      <workItem from="1615945108337" duration="9811000" />
+      <workItem from="1616034179884" duration="8725000" />
+      <workItem from="1616055391431" duration="10000" />
+      <workItem from="1616140957344" duration="10471000" />
+      <workItem from="1616211963123" duration="2498000" />
+      <workItem from="1616221295851" duration="10000" />
+      <workItem from="1616239783032" duration="21069000" />
+      <workItem from="1616327399842" duration="14000" />
+      <workItem from="1616377293716" duration="10517000" />
+      <workItem from="1616466247977" duration="6000000" />
+      <workItem from="1616497249439" duration="5108000" />
+      <workItem from="1616504661798" duration="4049000" />
+      <workItem from="1616548806390" duration="18814000" />
+      <workItem from="1616669265780" duration="66000" />
+      <workItem from="1616722313190" duration="19111000" />
+      <workItem from="1616810412902" duration="13714000" />
+      <workItem from="1616915180934" duration="3651000" />
+      <workItem from="1617010544752" duration="16609000" />
+      <workItem from="1617096578939" duration="691000" />
+      <workItem from="1617152241185" duration="5164000" />
+      <workItem from="1617180200313" duration="604000" />
+      <workItem from="1617192736931" duration="7893000" />
+      <workItem from="1617330185421" duration="10284000" />
+      <workItem from="1617364365140" duration="57065000" />
+      <workItem from="1617697468171" duration="7000" />
+      <workItem from="1617758061421" duration="5728000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1590455716330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590455716330</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1590455763445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590455763445</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1590455837647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590455837647</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1590916793614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590916793614</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1592636554944</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592636554944</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1593752797806</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593752797807</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1595818309538</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595818309538</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1599700868901</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599700868901</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1607946266797</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607946266797</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update my code for leetcode with Python">
+      <created>1615861384529</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615861384529</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1815063000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924126" visible="true" weight="0.19858612" />
+      <window_info id="Structure" order="1" sideWeight="0.5007587" side_tool="true" weight="0.14765458" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31940702" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43126684" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" weight="0.27506426" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="update my code for leetcode with Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="update my code for leetcode with Python" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem76.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem567.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem632.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem1004.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem1052.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem101.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem1208.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/面试29.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dynamic planning/problem121.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/面试题46.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem14.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/193weekly_competition/1483树节点的第K个祖先.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二叉树/面试04.04.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二叉树/problem938.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二叉树/problem124.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code_template/二叉树的前中后序遍历层次遍历的递归非递归实现.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二叉树/problem226.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二叉树/problem897_递增顺序查找树.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二叉树/problem_offer32_II_从上到下打印二叉树II.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem32_最长有效括号.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/196/5433所有蚂蚁掉下来之气那的最后一刻.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem1252_奇数值单元格的数目.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二叉树/problem96_不同的二叉搜索树.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二叉树/problem_offer32_III_从上到下打印二叉树III.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/面试08.03_魔术索引.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/200/5476_找出数组游戏的赢家.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/200/5477_自己敲一遍看看.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/面试16.19_水域大小.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem696_计数二进制子串.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem43_字符串相乘.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem20_有效的括号.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/面试题02.01_移除重复节点.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/201weekly_competition/problem1554_整理字符串.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem21_合并两个有序链表.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/回溯/problem46_全排列.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/203weekly_competition/5495.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/203weekly_competition/5497.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/回溯/面试题08.04_幂集.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二分查找/problem34_在排序数组中查找元素的第一个和最后一个位置.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem17_电话号码的字母组合.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/滑动窗口/problem438_找到字符串中所有字母异位词.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/alibaba_online_codeing/初赛第一场/第二题.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/alibaba_online_codeing/初赛第一场/第三题.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/alibaba_online_codeing/初赛第一场/第四题.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/alibaba_online_codeing/初赛第一场/3.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/alibaba_online_codeing/初赛第二场/第二题.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/回溯/problem77_组合.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/堆/problem1046_最后一块石头的重量.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/堆/problem703_数据流中的第K大元素.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/206/5511_二进制中的特殊占位置.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/206/5512_统计不开心的朋友.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/208weekly_competition/2.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷没写出来的题目/problem416_分割等和子集.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dynamic planning/problem887_鸡蛋掉落.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dynamic planning/problem5_最长回文子串.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/211weekly_competition/2.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/211weekly_competition/3.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem925_长按键入.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem763_划分字母区间.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem316_去除重复字母.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/212/2.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/212/3.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/214weekly_competition/3.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/214weekly_competition/3_again.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/217/2.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/单调栈/problem496_下一个最大元素I.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/单调栈/problem239_滑动窗口最大值.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指offer04_二维数组中的查找.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指offer14-I_剪绳子.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指offer12_矩阵中的路径.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/回溯/problem401_二进制手表.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/回溯/problem401_二进制手表第二次.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/回溯/problem131_分割回文串.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/回溯/problem1415_长度为n的开心字符串中字典序第k小的字符串.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指offer25_合并两个排序的链表.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指offer64_求1+2+3++n.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/并查集/problem1202_交换字符串中的元素.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/并查集/problem1202_交换字符串中的元素_通过版.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指offer47_礼物的最大价值.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指offer65_不用加减乘除做加法.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指offer34_二叉树中和为某一值的路径.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指joffer67_把字符串转换成整数.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/226周赛/2.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/226周赛/3.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer_二刷/剑指offer34_二叉树中和为某一值的路径.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/227/3.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/227/4.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_hot100/problem279_完全平方数.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_hot100/problem39_组合总和.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_hot100/problem394_字符串解码.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_hot100/problem5_最长回文子串.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_hot100/problem437_路径总和III.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_hot100/problem139_单词拆分.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_hot100/problem621_任务调度器.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/230/2.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem206_反转链表.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem543_二叉树的直径.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem94_二叉树的中序遍历.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem39_组合总和.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem96_不同的二叉搜索树.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem279_完全平方数.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem347_前K个高频元素.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem300_最长递增子序列.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baidu/跳数字序列.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem240_搜索二维矩阵II.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/2.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem34_在排序数组中查找元素的第一个和最后一个位置.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/二分查找/二分查找模板.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem3_无重复字符的最长字串.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dynamic planning/股票买卖问题_二刷/problem122_买卖股票的最佳时机II.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dynamic planning/股票买卖问题_二刷/problem309_最佳买卖股票时机含冷冻期.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem210_课程表II.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_二刷hot100/problem207_课程表.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_hot100/problem210_课程表II.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem1315_祖父节点值为偶数的节点和.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem6_Z字形变换.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem12_整数转罗马数字.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/wxs_1.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem82_删除排序链表中的重复元素II.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem81_搜索旋转排序数组II.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem92_反转链表II.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem91_解码方法.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem116_填充每个节点的下一个右侧节点指针.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem150_逆波兰表达式求值.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem162_寻找峰值.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem80_删除有序数组中的重复项II.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem168_Excel表列名称.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/华为笔试题/反转括号内的字符串2.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem213_打家劫舍II.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem87_扰乱字符串.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem91_解码方法.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/华为笔试题/2021.4.21/2.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem363_矩形区域不超过K的最大数值和.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem377_组合总和IV.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem368_最大整除子集.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/238/2.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/238/3.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_weekly_competition/238/3_again.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem897_递增顺序搜索树.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem264_丑数II.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem403_青蛙过河.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指offer68_II_二叉树的最近公共祖先.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/剑指offer57_II_和为s的连续正数序列.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem698_划分为k个相等的子集.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem1269_停在原地的方案数.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem993_二叉树的堂兄弟节点.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem1442_形成两个异或相等数组的三元组数目.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem554_砖墙.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem664_奇怪的打印机.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem1190_反转每对括号间的子串.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem461_汉明距离.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/拼多多笔试/1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/拼多多笔试/3_2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/拼多多笔试/2.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode未归类题目/problem560_和为K的子数组.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem342_4的幂.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem1744_你能在你最喜欢的那天吃到你最喜欢的的糖果吗.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem879_盈利计划.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/problem279_完全平方数.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="next_level" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/problem25_K个一组翻转链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem26_删除有序数组中的重复项.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回溯/problem78_子集2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem28_实现strStr().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem27_移除元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/wxs_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba_online_codeing/蚂蚁实习笔试/wxs_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem29_两数相除.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/problem90_子集II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem80_删除有序数组中的重复项II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem50_Pow(x,n).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/problem1006_笨阶乘.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem57_插入区间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/面试17.21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem61_旋转链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回溯/problem47_全排列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem45_跳跃游戏II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/回溯/problem52_N皇后II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem82_删除排序链表中的重复元素II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem71_简化路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem59_螺旋矩阵II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem73_矩阵置零.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem86_分隔链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二分查找/problem33_搜索旋转排序数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem81_搜索旋转排序数组II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/problem1143_最长公共子序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/problem781_森林中的兔子.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem92_反转链表II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="71" column="20" lean-forward="true" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem206_反转链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem89_格雷编码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem91_解码方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/problem103_二叉树的锯齿形层序遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="35" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/problem113_路径总和II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem118_杨辉三角.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem119_杨辉三角II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/problem88_合并两个有序数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="23" selection-start-line="23" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/problem129_求根节点到叶节点数字之和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem137_只出现一次的数字II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem134_加油站.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem116_填充每个节点的下一个右侧节点指针.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem1818_绝对差值和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem150_逆波兰表达式求值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem162_寻找峰值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem172_阶乘后的零.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/二叉树/problem117_填充每个节点的下一个右侧节点指针II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/problem80_删除有序数组中的重复项II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/problem81_搜索旋转排序数组II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem168_Excel表列名称.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/problem153_寻找旋转排序数组中的最小值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

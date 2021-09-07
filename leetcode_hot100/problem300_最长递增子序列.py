@@ -36,13 +36,32 @@ class Solution:
                     dp[i] = max(dp[i], dp[j]+1)
         return max(dp)
 
-    def lengthOfLIS(self, nums: List[int]) -> int:
-        #
+    def lengthOfLIS2(self, nums: List[int]) -> int:
+        # 贪心算法+二分搜索
+        n = len(nums)
+        if n < 2:
+            return n
+        tail = [nums[0]]
+        for i in range(1, n):
+            if nums[i] > tail[-1]:
+                tail.append(nums[i])
+                continue
+
+            left = 0
+            right = len(tail) -1
+            while left < right:
+                mid = left + (right - left) // 2
+                if tail[mid] < nums[i]:
+                    left = mid + 1
+                else:
+                    right = mid
+            tail[left] = nums[i]
+        return len(tail)
 
 
 if __name__ == '__main__':
     solu = Solution()
     nums = [7,7,7,7,7,7,7]
-    ans = solu.lengthOfLIS(nums)
+    ans = solu.lengthOfLIS2(nums)
     print(ans)
 

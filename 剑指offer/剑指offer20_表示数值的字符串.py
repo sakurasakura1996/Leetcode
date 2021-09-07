@@ -9,4 +9,26 @@
 # 判断是否是一个数，有+ - 和 .等。
 class Solution:
     def isNumber(self, s: str) -> bool:
+        
+
+        def isZhengshu(num: str):
+            # 判断字符串num是否是整数，包括正负符号
+            if not num:
+                return False
+            n = len(num)
+            if num[0] == '+' or num[0] == '-':
+                if n == 1:
+                    return False
+                else:
+                    for i in range(1, n):
+                        if not num[i].isdigit():
+                            return False
+                    return True
+            else:
+                for i in range(n):
+                    if not num[i].isdigit():
+                        return False
+                return True
+
+        def
 
